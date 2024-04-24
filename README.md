@@ -37,5 +37,5 @@ Virtual Explorer is a platform designed to provide users with a virtual tour exp
 - `POST /places/{place_id}/virtual_tours/{tour_id}/stop/`: End a virtual tour.
 
 ## Contributors
-- [Gaziza Akhmetzhan](https://github.com/gaziza13)
-- [Dauren Zhumabay](https://github.com/skapar)
+- [Kenesbek Baisal][https://github.com/baimanbk]
+- 

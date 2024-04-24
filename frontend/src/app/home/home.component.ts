@@ -4,12 +4,13 @@ import { CityService } from '../APIservices/city.service';
 import { ActivatedRoute, RouterModule } from '@angular/router';
 import { PopularDestinationsComponent } from '../popular-destinations/popular-destinations.component';
 import { City } from '../models/city.model';
+import { CityComponent } from '../city/city.component';
 
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, RouterModule, NgFor, PopularDestinationsComponent],
+  imports: [CommonModule, RouterModule, NgFor, PopularDestinationsComponent, CityComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
