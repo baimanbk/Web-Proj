@@ -38,4 +38,5 @@ Virtual Explorer is a platform designed to provide users with a virtual tour exp
 
 ## Contributors
 - [Kenesbek Baisal][https://github.com/baimanbk]
+- [Abrakhmanov Diyar][https://github.com/diyarski]
 - 
